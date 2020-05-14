@@ -1,4 +1,4 @@
-# BlockEtW
+# BlockETW
 .Net Assembly to block ETW telemetry in current process
 
 Usage: execute-assembly /opt/dotnet/blocketw.exe 
