@@ -1,0 +1,2 @@
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\obj\Debug\blocketw.csprojAssemblyReference.cache
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\obj\Debug\blocketw.csproj.CoreCompileInputs.cache

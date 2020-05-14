@@ -1,0 +1,7 @@
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\bin\Release\blocketw.pdb
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\obj\Release\blocketw.csprojAssemblyReference.cache
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\obj\Release\blocketw.csproj.CoreCompileInputs.cache
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\obj\Release\blocketw.pdb
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\bin\Release\blocketw.exe.config
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\bin\Release\blocketw.exe
+C:\Users\Derek.Admin.STANNCENTER\Source\Repos\blocketw\blocketw\obj\Release\blocketw.exe
