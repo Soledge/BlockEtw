@@ -9,6 +9,7 @@ With Aggressor script added to Cobalt Strike:
 For injecting into a process:   shinject <pid> /opt/shellcode/blocketw.bin
 
 There is no output currently for the command. 
+It WILL NOT WORK if your using a spawnto.
 
 Credits go to RastaMouse and XPN for creating SharpC2 from which this tool is based
 and thier research on ETW bypassing.
