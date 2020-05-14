@@ -1,5 +1,5 @@
 # BlockETW
-.Net 3.5 / 4.5  Assembly to block ETW telemetry in current process
+.Net 3.5 / 4.5 Assembly to block ETW telemetry in the current process
 
 Usage: execute-assembly /opt/dotnet/blocketw.exe 
 
