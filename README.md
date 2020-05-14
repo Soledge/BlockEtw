@@ -1,15 +1,14 @@
 # BlockETW
-.Net 3.5 / 4.5 Assembly to block ETW telemetry in the current process
+.Net 3.5 / 4.5 Assembly to block ETW telemetry in a process
 
-Usage: execute-assembly /opt/dotnet/blocketw.exe 
+You must "Self-Inject" the blocketw.bin to the session that your beacon lives in
 
-With Aggressor script added to Cobalt Strike:
-> blocketw
+For injecting into a process:  
 
-For injecting into a process:   shinject <pid> /opt/shellcode/blocketw.bin
+shinject <pid> /opt/shellcode/blocketw.bin
 
 There is no output currently for the command. 
-It WILL NOT WORK if your using a spawnto.
+It WILL NOT WORK if your using  spawnto
 
 Credits go to RastaMouse and XPN for creating SharpC2 from which this tool is based
 and thier research on ETW bypassing.
