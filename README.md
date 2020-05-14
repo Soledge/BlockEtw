@@ -13,7 +13,7 @@ There is no output currently for the command.
 Credits go to RastaMouse and XPN for creating SharpC2 from which this tool is based
 and thier research on ETW bypassing.
 
-Rlease Build is built with .net 4.5 (but can be built for 3.5)
+Release Build is built with .net 4.5 (but can be built for 3.5)
 
 https://rastamouse.me/2020/05/sharpc2/
 
