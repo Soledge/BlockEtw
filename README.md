@@ -13,4 +13,5 @@ and thier research on ETW bypassing.
 Built with .net 4.5
 
 https://rastamouse.me/2020/05/sharpc2/
+
 https://blog.xpnsec.com/hiding-your-dotnet-etw/
