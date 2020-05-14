@@ -6,7 +6,10 @@ Usage: execute-assembly /opt/dotnet/blocketw.exe
 With Aggressor script added to Cobalt Strike:
 > blocketw
 
+For injecting into a process:   shinject <pid> /opt/shellcode/blocketw.bin
+
 There is no output currently for the command. 
+
 Credits go to RastaMouse and XPN for creating SharpC2 from which this tool is based
 and thier research on ETW bypassing.
 
