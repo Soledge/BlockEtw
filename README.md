@@ -5,7 +5,7 @@ You must "Self-Inject" the blocketw.bin to the session that your beacon lives in
 
 For injecting into a process:  
 
-shinject <pid> /opt/shellcode/blocketw.bin
+> shinject <pid> /opt/shellcode/blocketw.bin
 
 There is no output currently for the command. 
 It WILL NOT WORK if your using  spawnto
